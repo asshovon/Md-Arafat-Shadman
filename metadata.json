@@ -2,5 +2,5 @@
   "name": "Md. Arafat Shadman - Personal Blog & Portfolio",
   "description": "Personal Digital Hub and Tech Blog of Md. Arafat Shadman: Technology, AI & ML, Cybersecurity, Education, and Research.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_Vercel_API"]
 }
